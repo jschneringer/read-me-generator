@@ -20,12 +20,26 @@ const questions = [
       },
    {
       type: "input",
-      name: "install instructions",
+      name: "installInstructions",
       message: "How do you install project",
       validation: descriptionInput => descriptionInput ? true : false
    }
-   
-   
+    {
+       type: "input",
+       name: "usageInformation",
+       message: "How do you use project?",
+       validation: descriptionInput => descriptionInput ? true : false
+    }
+   { 
+      type: "input",
+      name: "contributionGuidelines",
+      message: "How can someone contribute to your project?",
+      validation: descriptionInput => descriptionInput ? true : false
+   {
+      type: "input",
+      name: "tests",
+      message: "Are there tests for project",
+   }
    ];
 
 // TODO: Create a function to write README file
