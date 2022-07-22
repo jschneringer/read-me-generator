@@ -9,3 +9,4 @@
 <h2> Links </h2>
 
 <h2> Gif and Video Walkthrough</h2>
+https://drive.google.com/file/d/1l6uj5icXGKEcKEfoh2ikV73NF0vWqEkM/view
