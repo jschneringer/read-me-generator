@@ -1,3 +1,2 @@
-# read-me-generator
+# figJam
 
-Project
